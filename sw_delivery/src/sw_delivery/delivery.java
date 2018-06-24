@@ -8,6 +8,13 @@ public class delivery {
 		
 		System.out.println ("Hola Mundo");
 	}
-	
+	//Se obtiene los datos de el usuario
+	public void GetUsuario() {
+		
+	}
+	//SE puede seleccionar un producto y añadirlo
+	public void AgregarProducto() {
+		
+	}
 	
 }
