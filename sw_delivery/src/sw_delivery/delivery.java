@@ -34,7 +34,7 @@ public class delivery {
              System.out.println("Favor ingresar un dato válido");
          } 
    
-        } while (agrega == "S"); //On the loop while the sutomer wants to add products
+        } while (agrega == "S"); //On the loop while the customer wants to add products
         
     
     }
@@ -64,5 +64,17 @@ public class delivery {
             }
         
     }
+	public void prueba () {
+		
+		System.out.println ("Hola Mundo");
+	}
+	//Se obtiene los datos de el usuario
+	public void GetUsuario() {
+		
+	}
+	//SE puede seleccionar un producto y añadirlo
+	public void AgregarProducto() {
+		
+	}
 	
 }
